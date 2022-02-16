@@ -1,0 +1,25 @@
+p {
+    color: red;
+}
+
+img {
+    width: 50%;
+    height: 200px;
+}
+
+body {
+    background-color: rgb(255, 120, 0);
+    cursor: url("https://media.discordapp.net/attachments/560525574070599710/943494514495078400/1645017007219.jpg?width=169&height=300"), crosshair, auto;
+}
+
+img:hover {
+    width: 10px;
+}
+
+iframe:hover {
+    width: 0px;
+}
+
+button {
+    color: rgb(255, 000, 000);
+}
